@@ -7,7 +7,7 @@ The system follows a modular hardware design consisting of dedicated modules for
 ## ✨ Features
 
 1. 🔄 Four-state Finite State Machine (FSM) based surveillance controller
-2. Motion detection and 🚪 door intrusion monitoring
+2. 🚪 Motion detection and door intrusion monitoring
 3. 🚨 Automatic alarm escalation for intrusion scenarios
 4. 🔴 Real-time LED status indicators
 5. 📟 Seven-segment display for system state visualization
