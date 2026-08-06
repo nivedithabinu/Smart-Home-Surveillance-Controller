@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+T1: System disarmed, sensors active - expect IDLE
+T2: Arming system - expect IDLE
+T3: Motion detected - expect MOTION_DET, camera ON
+T4: Disarm button - expect IDLE
+T5: Door opened - expect DOOR_ALERT
+T6: Motion while door open - expect ALARM
+T7: Reset from ALARM - expect IDLE
+T8: Both sensors at once - expect direct ALARM
+T9: RST button - expect IDLE
+All tests complete.
+$finish called at time : 340 ns : File "D:/home_surveillance/top_level_tb.v" Line 107

@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/home_surveillance/clk_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_divider
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/home_surveillance/fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/home_surveillance/led_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/home_surveillance/seg7_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seg7_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/home_surveillance/top_level.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_level
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/home_surveillance/top_level_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_level_tb

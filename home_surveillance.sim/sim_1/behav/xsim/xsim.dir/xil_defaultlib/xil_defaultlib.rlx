@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/home_surveillance/clk_divider.v,1776549742,verilog,,D:/home_surveillance/fsm.v,,clk_divider,,,C:/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/home_surveillance/fsm.v,1776549734,verilog,,D:/home_surveillance/led_controller.v,,fsm,,,C:/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/home_surveillance/home_surveillance.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+D:/home_surveillance/led_controller.v,1776549726,verilog,,D:/home_surveillance/seg7_controller.v,,led_controller,,,C:/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/home_surveillance/seg7_controller.v,1776549703,verilog,,D:/home_surveillance/top_level.v,,seg7_controller,,,C:/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/home_surveillance/top_level.v,1776546138,verilog,,D:/home_surveillance/top_level_tb.v,,top_level,,,C:/2025.2/Vivado/data/rsb/busdef,,,,,
+D:/home_surveillance/top_level_tb.v,1776549696,verilog,,,,top_level_tb,,,C:/2025.2/Vivado/data/rsb/busdef,,,,,
