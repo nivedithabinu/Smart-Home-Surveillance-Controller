@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_level_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_level_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="339,991 ps"></ZoomStartTime>
+      <ZoomEndTime time="340,002 ps"></ZoomEndTime>
+      <Cursor1Time time="340,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="326"></NameColumnWidth>
+      <ValueColumnWidth column_width="154"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/top_level_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/arm" type="logic">
+      <obj_property name="ElementShortName">arm</obj_property>
+      <obj_property name="ObjectShortName">arm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/motion" type="logic">
+      <obj_property name="ElementShortName">motion</obj_property>
+      <obj_property name="ObjectShortName">motion</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/door" type="logic">
+      <obj_property name="ElementShortName">door</obj_property>
+      <obj_property name="ObjectShortName">door</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/disarm_btn" type="logic">
+      <obj_property name="ElementShortName">disarm_btn</obj_property>
+      <obj_property name="ObjectShortName">disarm_btn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/led_idle" type="logic">
+      <obj_property name="ElementShortName">led_idle</obj_property>
+      <obj_property name="ObjectShortName">led_idle</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/led_motion" type="logic">
+      <obj_property name="ElementShortName">led_motion</obj_property>
+      <obj_property name="ObjectShortName">led_motion</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/led_door" type="logic">
+      <obj_property name="ElementShortName">led_door</obj_property>
+      <obj_property name="ObjectShortName">led_door</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/led_alarm" type="logic">
+      <obj_property name="ElementShortName">led_alarm</obj_property>
+      <obj_property name="ObjectShortName">led_alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/led_camera" type="logic">
+      <obj_property name="ElementShortName">led_camera</obj_property>
+      <obj_property name="ObjectShortName">led_camera</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/buzzer" type="logic">
+      <obj_property name="ElementShortName">buzzer</obj_property>
+      <obj_property name="ObjectShortName">buzzer</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/seg" type="array">
+      <obj_property name="ElementShortName">seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/dp" type="logic">
+      <obj_property name="ElementShortName">dp</obj_property>
+      <obj_property name="ObjectShortName">dp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_level_tb/an" type="array">
+      <obj_property name="ElementShortName">an[3:0]</obj_property>
+      <obj_property name="ObjectShortName">an[3:0]</obj_property>
+   </wvobject>
+</wave_config>
